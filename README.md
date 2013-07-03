@@ -1,3 +1,7 @@
+# Update
+
+I'd suggest checking out the much more professionally developed script from gamelinux at: https://github.com/gamelinux/activedns
+
 # isDomainInfected
 
 * {Source}[https://github.com/jbc22/allsum-client]
